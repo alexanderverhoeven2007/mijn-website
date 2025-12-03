@@ -107,7 +107,7 @@ header p {
 }
 
 .profile-img {
-    width: 260px;
+    width: 160px;
     height: auto;
     border-radius: 8px;
     object-fit: cover;
@@ -230,4 +230,5 @@ footer {
   border-top: 2px solid #5C6A73;
  
 }
+
 
